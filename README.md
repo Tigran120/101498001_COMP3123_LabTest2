@@ -24,17 +24,17 @@ OpenWeatherMap - https://api.openweathermap.org/data/2.5/weather
 ## Screenshots
 
 ### Toronto Weather
-<img src="screenshots/toronto-weather.png" alt="Toronto Weather" width="300"/>
+<img src="screenshots/toronto-weather.png" alt="Toronto Weather" width="250"/>
 Weather app showing Toronto with temperature, conditions, coordinates, humidity, pressure, and wind speed
 
 ### London Weather
-<img src="screenshots/london-weather.png" alt="London Weather" width="300"/>
+<img src="screenshots/london-weather.png" alt="London Weather" width="250"/>
 Weather app showing London with city background image, temperature, and detailed weather information
 
 ### Error Handling
-<img src="screenshots/error-handling.png" alt="Error Handling" width="300"/>
+<img src="screenshots/error-handling.png" alt="Error Handling" width="250"/>
 Error message displayed when city is not found
 
 ### Postman API Test
-<img src="screenshots/postman-api-test.png" alt="Postman API Test" width="300"/>
+<img src="screenshots/postman-api-test.png" alt="Postman API Test" width="250"/>
 Postman showing successful API response for Toronto weather data
